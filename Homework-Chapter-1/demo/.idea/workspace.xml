@@ -7,7 +7,236 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87f2cd30-fd4d-4555-baf0-7bc263e87aab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/test/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/test/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/test/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/test/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/test/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/test/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/androidTest/java/com/example/day2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/androidTest/java/com/example/day2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/Award.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/Award.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/myRecycler/MyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/myRecycler/MyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/myRecycler/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/myRecycler/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/myRecycler/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/myRecycler/TestSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/nextAct.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/java/com/example/day2/nextAct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/drawable/button_circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/drawable/button_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_award.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_award.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_my_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_my_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_next.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/activity_next.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/test/java/com/example/day2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/app/src/test/java/com/example/day2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/Day2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/Ch3Ex1Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/Ch3Ex1Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/Ch3Ex2Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/Ch3Ex2Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/Ch3Ex3Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/Ch3Ex3Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/PlaceholderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/PlaceholderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/RainbowTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/RainbowTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/fragment/DataSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/fragment/DataSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/fragment/MyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/fragment/MyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/fragment/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/java/com/example/chapter3/homework/fragment/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_ch3ex1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_ch3ex1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_ch3ex2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_ch3ex2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_ch3ex3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_ch3ex3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/fragment_placeholder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/fragment_placeholder.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/layout/item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/Homework/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MyAnim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MyAnim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MyAnimation/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MyAnimation/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MyAnimation/MyLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/MyAnimation/MyLoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/widget/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/widget/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/widget/ClockView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/widget/ClockView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/widget/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/java/com/bytedance/camp/chapter4/widget/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable/button_circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable/button_circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable/clock_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable/clock_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/layout/activity_my_anim.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/layout/activity_my_anim.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/attr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/attr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/Homework/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/androidTest/java/com/bytedance/practice5/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/androidTest/java/com/bytedance/practice5/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/FeedAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/FeedAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/IApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/IApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/UploadActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/UploadActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/model/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/model/MessageListResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/model/MessageListResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/model/UploadResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/model/UploadResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/socket/ClientSocketThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/socket/ClientSocketThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/socket/SocketActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/java/com/bytedance/practice5/socket/SocketActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/drawable/bg_round_rect.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/drawable/bg_round_rect.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/activity_socket.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/activity_socket.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/activity_upload.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/activity_upload.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/item_feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/layout/item_feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/test/java/com/bytedance/practice5/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/app/src/test/java/com/bytedance/practice5/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework-Chapter-5/homework/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +252,11 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/test/ExampleInstrumentedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="322">
               <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,33 +265,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/test/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="43" column="14" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="14" />
+            <state relative-caret-position="529">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#951#1133#0" expanded="true" />
-                <element signature="e#1132#1133#0" expanded="true" />
-                <element signature="e#1216#1362#0" expanded="true" />
-                <element signature="e#1361#1362#0" expanded="true" />
-                <element signature="e#1454#1632#0" expanded="true" />
-                <element signature="e#1631#1632#0" expanded="true" />
-                <element signature="e#1712#1912#0" expanded="true" />
-                <element signature="e#1911#1912#0" expanded="true" />
-                <element signature="e#1947#2134#0" expanded="true" />
-                <element signature="e#2133#2134#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="932">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="555">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
@@ -71,7 +290,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,7 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -93,6 +312,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -103,18 +324,7 @@
             <path>
               <item name="demo" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
-            <path>
-              <item name="demo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="demo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="test" type="cbb59c9e:AndroidPsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="1abcf292:AndroidViewProjectNode" />
@@ -133,32 +343,17 @@
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
-            <path>
-              <item name="demo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="demo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
-              <item name="ic_launcher" type="c431d0b8:AndroidResGroupNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="D:/SDK" />
     <property name="device.picker.selection" value="Nexus_5X_API_30_x86" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Homework-Chapter-2/Day2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -250,42 +445,53 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3297587" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.33002833" />
-      <window_info anchor="bottom" id="Android Profiler" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Preview" weight="0.3297587" />
-      <window_info anchor="right" id="Flutter Outline" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3297587" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.33002833" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Preview" order="7" weight="0.3297587" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/test/ExampleInstrumentedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="322">
           <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/test/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -294,31 +500,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="932">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="555">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/test/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="43" column="14" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#951#1133#0" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-            <element signature="e#1216#1362#0" expanded="true" />
-            <element signature="e#1361#1362#0" expanded="true" />
-            <element signature="e#1454#1632#0" expanded="true" />
-            <element signature="e#1631#1632#0" expanded="true" />
-            <element signature="e#1712#1912#0" expanded="true" />
-            <element signature="e#1911#1912#0" expanded="true" />
-            <element signature="e#1947#2134#0" expanded="true" />
-            <element signature="e#2133#2134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
