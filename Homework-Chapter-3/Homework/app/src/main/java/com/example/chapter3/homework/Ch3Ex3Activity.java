@@ -1,6 +1,7 @@
 package com.example.chapter3.homework;
 
 import android.os.Bundle;
+import android.view.MotionEvent;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
